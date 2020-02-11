@@ -1,0 +1,29 @@
+
+table{
+    border-collapse: collapse;
+    border:1px solid gray
+}
+
+th,tr,td  {
+    border:1px solid rgb(200,200,200);
+    padding:10px;
+    background-image:    
+}
+
+th  {
+    background: green;
+    color:white
+}
+
+tr:nth-child(odd)  {
+    background image:rgb(200,200,200);
+    background color:blue
+
+body{
+    color:blue;
+    padding:10px;
+}
+
+body{
+    background-color: aqua;
+}
